@@ -18,21 +18,21 @@ Features
 
 4.Receiver's old and new balance
 
--Predicts whether a transaction is Fraudulent (1) or Not Fraudulent (0)
+Predicts whether a transaction is Fraudulent (1) or Not Fraudulent (0)
 
--Clear display of results with success/error messages
+Clear display of results with success/error messages
 
 Tech Stack
 
-Python 
+-Python 
 
-Streamlit (for web UI)
+-Streamlit (for web UI)
 
-Pandas (for handling input data)
+-Pandas (for handling input data)
 
-Joblib (for loading trained ML model)
+-Joblib (for loading trained ML model)
 
-Scikit-learn (for model training pipeline)
+-Scikit-learn (for model training pipeline)
 
 Result Snippets
   
