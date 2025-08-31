@@ -34,6 +34,8 @@ Tech Stack
 
 -Scikit-learn (for model training pipeline)
 
-Result Snippets
+Result Snippets Link
+
+https://github.com/ADITIBANSAL06/Fraudelent-Transaction-Detector/blob/main/fraud_detection1.png
   
 
