@@ -37,5 +37,7 @@ Tech Stack
 Result Snippets Link
 
 https://github.com/ADITIBANSAL06/Fraudelent-Transaction-Detector/blob/main/fraud_detection1.png
+
+https://github.com/ADITIBANSAL06/Fraudelent-Transaction-Detector/blob/main/fraud_detection2.png
   
 
