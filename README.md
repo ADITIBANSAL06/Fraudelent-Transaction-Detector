@@ -4,7 +4,7 @@ This is a Streamlit web application built to predict whether a financial transac
 
 The model is trained using transaction data and deployed in an interactive interface where users can input transaction details and get instant predictions.
 
-📌 Features
+Features
 
 * User-friendly web interface powered by Streamlit
 
@@ -22,7 +22,7 @@ The model is trained using transaction data and deployed in an interactive inter
 
 -Clear display of results with success/error messages
 
-* Tech Stack
+Tech Stack
 
 Python 
 
@@ -34,6 +34,6 @@ Joblib (for loading trained ML model)
 
 Scikit-learn (for model training pipeline)
 
-* Result Snippets
+Result Snippets
   
 
