@@ -10,13 +10,13 @@ Features
 
 * Input transaction details such as:
 
-1.Transaction type (PAYMENT, TRANSFER, CASH_OUT, CASH_IN, DEPOSIT)
+    1.Transaction type (PAYMENT, TRANSFER, CASH_OUT, CASH_IN, DEPOSIT)
 
-2.Amount
+    2.Amount
 
-3.Sender's old and new balance
+    3.Sender's old and new balance
 
-4.Receiver's old and new balance
+    4.Receiver's old and new balance
 
 Predicts whether a transaction is Fraudulent (1) or Not Fraudulent (0)
 
